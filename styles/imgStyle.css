@@ -1,0 +1,13 @@
+img{
+    margin-left: 30%;
+}
+.links_Container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+font-size: 25px;
+}

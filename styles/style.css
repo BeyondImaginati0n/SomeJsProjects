@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.imgContainer{
+display: flex;
+justify-content: center;
+}
+
+.img{
+    margin-left: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    opacity: 0;
+}
