@@ -6,6 +6,9 @@ img{
     display: flex;
     justify-content: space-between;
 }
+.img_container:hover p{
+    opacity: 1;
+}
 
 a{
     text-decoration: none;
